@@ -1,2 +1,2 @@
-Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text.
-“It's not Latin, though it nice like it, and it actually says nothing,” Before & After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it nice pretty real.
+Hola mundo! soy un chanchito feliz
+Cambio de la nueva rama
